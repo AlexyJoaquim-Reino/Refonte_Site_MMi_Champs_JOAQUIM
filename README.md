@@ -14,9 +14,9 @@ index.php
 ● Accéder au répertoire d'importation dans le gestionnaire de fichiers du CPANEL (dans notre cas, c'est public_html/SAE301)<br>
 ● Importer l'archive .zip/.rar en cliquant sur "Charger"<br>
 ● Décompresser l'archive dans le répertoire en choisissant l'option "extract" du fichier compressé<br>
-● Accéder au lien 🎉 <a href="https://refontedusitealexyjoaquim.com" href="_BLANK">Site Web</a><br>
+● Accéder au lien 🎉 <a href="http://mmi-refonte.taza5753.odns.fr/index" href="_BLANK">Site Web</a><br>
 
-URL du site : https://refontedusitealexyjoaquim.com
+URL du site : http://mmi-refonte.taza5753.odns.fr/index
 
 # Crédits
 Fait par Alexy JOAQUIM
