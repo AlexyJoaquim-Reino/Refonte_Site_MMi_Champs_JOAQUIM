@@ -14,9 +14,9 @@ index.php
 ● Accéder au répertoire d'importation dans le gestionnaire de fichiers du CPANEL (dans notre cas, c'est public_html/SAE301)<br>
 ● Importer l'archive .zip/.rar en cliquant sur "Charger"<br>
 ● Décompresser l'archive dans le répertoire en choisissant l'option "extract" du fichier compressé<br>
-● Accéder au lien 🎉 <a href="sae-301-reino.vercel.app" href="_BLANK">Site Web</a><br>
+● Accéder au lien 🎉 <a href="https://refontedusitealexyjoaquim.com" href="_BLANK">Site Web</a><br>
 
-URL du site : sae-301-reino.vercel.app
+URL du site : https://refontedusitealexyjoaquim.com
 
 # Crédits
 Fait par Alexy JOAQUIM
